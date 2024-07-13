@@ -10,7 +10,8 @@ while True:
     _, frame = cap.read()
 
     hsv_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
-
+ # para a criação da mascara, são criados dois arrays, um para a cor com pouco brillho e saturação e uma em seu máximo
+ # após isto analisa-se quais partes da imagem estão dentro do intervalo entre os arrays e as mantem na visualização, removendo todo o resto.
     # Vermelho
     low_red = np.array([0, 48, 51])
     height_red = np.array([0, 255, 255])

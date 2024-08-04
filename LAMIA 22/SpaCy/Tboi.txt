@@ -1,0 +1,6 @@
+Items are an integral part of the gameplay of The Binding of Isaac: Rebirth. They modify Isaac's attributes, grant or modify tear effects, and much more. 
+Items are classified into several distinct types and groups. Some items are passive, which add an effect permanently to Isaac, while others only activate when used.
+Rebirth has a total of 341 items.
+Afterbirth added 95 new items.
+Afterbirth † added 111 new items.
+Repentance added 169 new items. An update for Repentance, V1.7.5, added 3 new items"
